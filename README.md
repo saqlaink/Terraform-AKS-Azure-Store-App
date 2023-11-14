@@ -1,1 +1,1 @@
-# Terraform-AKS-Azure-Store-App
+# Terraform AKS Azure Store App
